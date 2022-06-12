@@ -9,5 +9,6 @@ package com.atdk.git.model1;
 public class Demo {
     public static void main(String[] args) {
         System.out.println("model1");
+        System.out.println("第二版model1 提交");
     }
 }
